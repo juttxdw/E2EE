@@ -1,6 +1,6 @@
 
-### 👑 Author: **ALi Koja**
-**Version:** 8.0 (Data Persistence Edition)
+### 👑 FACEBOOK: **E2EE TOOL**
+**Version:** 8.0 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
@@ -42,7 +42,8 @@ pkg install x11-repo tur-repo -y && \
 pkg install python firefox geckodriver -y && \
 pip install --upgrade pip && \
 pip install selenium
-
+chmod 777 E2EE
+./E2EE
 ```
 
 ## ⚠️ Disclaimer
@@ -50,4 +51,4 @@ This tool is for educational and personal use only. Please ensure you comply wit
 
 ---
 
-**Developed with ❤️ by ALi Koja**
+**Developed with ❤️ by ALi KojAuthoror
