@@ -42,3 +42,12 @@ pkg install x11-repo tur-repo -y && \
 pkg install python firefox geckodriver -y && \
 pip install --upgrade pip && \
 pip install selenium
+
+```
+
+## ⚠️ Disclaimer
+This tool is for educational and personal use only. Please ensure you comply with Facebook's Terms of Service when using automation tools.
+
+---
+
+**Developed with ❤️ by ALi Koja**
